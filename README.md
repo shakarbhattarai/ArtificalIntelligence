@@ -18,4 +18,15 @@ I have implemented a few machine learning algorithms, and have utilized some oth
       
         ![The graph shows the error in prediction.)](https://lh4.googleusercontent.com/_Yolu8mRgHGvRPHxiCChQBlEGX21Dy5e7muB2IXYOYGDunv5DIpDXm65WPQ_1DxRyL1QC6fUG-q_vQA=w1366-h675 "The graph shows the error in prediction" )
       
+#Random Artifical Intelligence Based Problems
 
+1. Missionary Canniabl Problem (missionary_cannibal.py)
+      - Algorithmic implementation (in Python) for the Missionary Cannibal Problem. Attached below is the state spaece tree for 3 missionaries and 3 cannibals. The Problem is generalized for n missionaries and n cannbials.
+
+      ![State Space Tree for MC Problem for 10 missionaries and 10 cannnibals](https://lh3.googleusercontent.com/a83fP9A32qBsCAh9WkwlYnqBiqiftl7nyyJyMWvG0k_uHTXd76cCeIcUoUPiPhngCoXrlBa-Isa_TVk=w1366-h675-rw)
+
+2. Water Jug Problem using Hill Climbing Algorithm(water_jug.py)
+
+3. N Queen Problem (Nqueen.py)
+
+4. 8 Puzzle(8 puzzle.py)
