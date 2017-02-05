@@ -3,7 +3,7 @@
 I have implemented a few machine learning algorithms, and have utilized some others to come up with the following results:
 
 1. Premeir League(Football) Winner Prediction (pl.py):
-      - More at: shakarbhattarai.com.np/wordpress/2016/09/manchester-city-will-win-the-premier-league/
+      - More [here](shakarbhattarai.com.np/wordpress/2016/09/manchester-city-will-win-the-premier-league/)
 
 2. Quandl's data based Stock Prediction (stocks.py) :
 
@@ -14,7 +14,7 @@ I have implemented a few machine learning algorithms, and have utilized some oth
 
 3. Wine's Quality Prediction (wine.py):
       - Predict the quality(On a scale of 1 to 10) of wine based on over 12 features.(Accuracy: 73%)
-      - More at: http://shakarbhattarai.com.np/wordpress/2016/09/machine-learning-intuitive-idea/
+      -  More [here](http://shakarbhattarai.com.np/wordpress/2016/09/machine-learning-intuitive-idea/)
       
         ![The graph shows the error in prediction.)](https://lh4.googleusercontent.com/_Yolu8mRgHGvRPHxiCChQBlEGX21Dy5e7muB2IXYOYGDunv5DIpDXm65WPQ_1DxRyL1QC6fUG-q_vQA=w1366-h675)
       
