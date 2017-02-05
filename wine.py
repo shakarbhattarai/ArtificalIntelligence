@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#The relevant data for red wine is found in red.csv
 import pandas as pd
 import quandl as Quandl,math, datetime
 import numpy as np
