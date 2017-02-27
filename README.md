@@ -3,7 +3,7 @@
 I have implemented a few machine learning algorithms, and have utilized some others to come up with the following results:
 
 1. Premeir League(Football) Winner Prediction (pl.py):
-      - More [here](shakarbhattarai.com.np/wordpress/2016/09/manchester-city-will-win-the-premier-league/)
+      - More [here](http://shakarbhattarai.com.np/wordpress/2016/09/manchester-city-will-win-the-premier-league/)
 
 2. Quandl's data based Stock Prediction (stocks.py) :
 
